@@ -1,0 +1,14 @@
+Libraries for creating ftp server:
+	twisted
+Anon, guest users log in without authentication
+users have there own directories
+
+Start an FTP server using a one line:
+	cmd>> twisted -n ftp
+
+FIle transfer files:
+	1.Uploading files
+	2.Downloading files
+	3.Sending files
+
+What if inte framework we ran an ftp server inthe background on a thread that we can share our work.
